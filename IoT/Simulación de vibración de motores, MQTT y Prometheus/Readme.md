@@ -6,7 +6,7 @@
 
 Este proyecto simula la vibración de múltiples motores eléctricos en tiempo real, con el objetivo de monitorear su comportamiento mediante métricas expuestas a Prometheus. La solución está diseñada para entornos académicos y de laboratorio donde no se dispone de sensores físicos, pero se requiere validar flujos de monitoreo, visualización y exportación de datos.
 
-La métrica `vibracion_motor` permite observar variaciones simuladas por motor, facilitando el análisis de patrones, la detección de anomalías y la integración con herramientas como Grafana o alertas automáticas. Esta simulación también se publica vía MQTT, lo que permite extender el sistema hacia dashboards distribuidos o brokers externos.
+La métrica `vibracion_motor` permite observar variaciones simuladas por motor, facilitando el análisis de patrones. Esta simulación también se publica vía MQTT, lo que permite extender el sistema hacia dashboards distribuidos o brokers externos.
 
 ---
 
