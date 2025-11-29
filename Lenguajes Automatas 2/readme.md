@@ -947,11 +947,15 @@ end start
 ---
 
 **Proyecto realizado por:**
-[Nombres de los integrantes del equipo]
+- Hernández Patiño Tomás Hendrick - 22211582
+- López Mendez Juan David - 22211598 
+- Triana Sanchez Yael Kristoph - 22211667
+- Jimenez Montes Luis Alessandro - 222211588
+
 
 **Materia:** Lenguajes y Autómatas II
 
-**Profesor:** [Nombre del profesor]
+**Profesor:** Octavio Romero Flores
 
 **Fecha:** 3 de Diciembre de 2024
 
