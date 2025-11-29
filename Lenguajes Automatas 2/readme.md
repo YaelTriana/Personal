@@ -579,10 +579,10 @@ int main(){
 
 ### Cambios Realizados:
 
-1. ✅ Renombré parámetros de suma a 'x' y 'y' (evita conflicto con 'a' global)
-2. ✅ Eliminé `float a;` en main (usa la variable global 'a')
-3. ✅ Operación `c = b+a;` - ambos int, resultado int, asignación válida
-4. ✅ Agregué `return 0;` en main()
+1. Renombre de parámetros de suma a 'x' y 'y' (evita conflicto con 'a' global)
+2. Eliminacion de `float a;` en main (usa la variable global 'a')
+3. Operación `c = b+a;` - ambos int, resultado int, asignación válida
+4. Se agregó `return 0;` en main()
 
 ---
 
@@ -903,10 +903,10 @@ end start
 4. **Registros**: AX=0008, DS=segmento datos
 
 **Verificación del Resultado:**
-- ✅ suma(5,3) = 8
-- ✅ resultado almacenado correctamente
-- ✅ Sin errores de ejecución
-- ✅ Programa termina correctamente
+- suma(5,3) = 8
+- resultado almacenado correctamente
+- Sin errores de ejecución
+- Programa termina correctamente
 
 ---
 
@@ -914,11 +914,11 @@ end start
 
 ### Logros del Proyecto:
 
-1. ✅ **Analizador Léxico**: Tokenización completa y correcta
-2. ✅ **Analizador Sintáctico**: Análisis LR con construcción de árbol
-3. ✅ **Analizador Semántico**: Verificación de tipos y contextos
-4. ✅ **Generación de Código**: Código ensamblador x86 funcional
-5. ✅ **Compilación Completa**: Pipeline funcional de principio a fin
+1. **Analizador Léxico**: Tokenización completa y correcta
+2. **Analizador Sintáctico**: Análisis LR con construcción de árbol
+3. **Analizador Semántico**: Verificación de tipos y contextos
+4. **Generación de Código**: Código ensamblador x86 funcional
+5. **Compilación Completa**: Pipeline funcional de principio a fin
 
 ### Conocimientos Aplicados:
 
