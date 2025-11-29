@@ -640,18 +640,24 @@ end start
 ### 2. Ejecución
 ![Ejecución](recursos/compilación.png)
 
-![Ejecución2](recursos/ax1)
+![Ejecución](recursos/ax1.png)
 
-![Ejecución3](recursos/ax0003)
+![Ejecución](recursos/ax0003.png)
 
-![Ejecución4](recursos/AX0008)
+![Ejecución](recursos/ax.png) 
 
+![Ejecución](recursos/AX0008.png)
 
-**[NOTA: Aquí deberías insertar screenshots de EMU8086 mostrando:]**
-1. El código .asm cargado en el editor
-2. La ejecución paso a paso
-3. El valor final de la variable resultadomain = 8
-4. Los registros AX, BX mostrando los cálculos
+![Ejecución](recursos/ret.png)
+
+### 3. Valor final
+
+![Valor final](recursos/res.png)
+
+### 4. Registros AX y BX
+
+![Ejecución](recursos/AX0003.png)
+![Ejecución](recursos/ax0008.png)
 
 ---
 
