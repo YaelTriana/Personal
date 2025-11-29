@@ -635,7 +635,17 @@ start:
 end start
 ```
 ### 1. Código cargado
-![Código Cargado](recursos/Captura de pantalla (541).png)
+![Código Cargado](recursos/código.png)
+
+### 2. Ejecución
+![Ejecución](recursos/compilación.png)
+
+![Ejecución2](recursos/ax1)
+
+![Ejecución3](recursos/ax0003)
+
+![Ejecución4](recursos/AX0008)
+
 
 **[NOTA: Aquí deberías insertar screenshots de EMU8086 mostrando:]**
 1. El código .asm cargado en el editor
