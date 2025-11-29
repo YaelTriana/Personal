@@ -1,7 +1,10 @@
 # PROYECTO FINAL - LENGUAJES Y AUTÓMATAS II
 ## Documentación Completa del Compilador
 
-**Equipo:** [Nombres de los integrantes del equipo]
+<p align="center">
+  <img src="recursos/portada_automatas.png" alt="Portada ITT" height="600">
+</p>
+
 
 **Fecha de entrega:** 3 de Diciembre de 2024
 
@@ -631,12 +634,30 @@ start:
 	ret
 end start
 ```
+### 1. Código cargado
+![Código Cargado](recursos/código.png)
 
-**[NOTA: Aquí deberías insertar screenshots de EMU8086 mostrando:]**
-1. El código .asm cargado en el editor
-2. La ejecución paso a paso
-3. El valor final de la variable resultadomain = 8
-4. Los registros AX, BX mostrando los cálculos
+### 2. Ejecución
+![Ejecución](recursos/compilación.png)
+
+![Ejecución](recursos/ax1.png)
+
+![Ejecución](recursos/ax0003.png)
+
+![Ejecución](recursos/ax.png) 
+
+![Ejecución](recursos/AX0008.png)
+
+![Ejecución](recursos/ret.png)
+
+### 3. Valor final
+
+![Valor final](recursos/res.png)
+
+### 4. Registros AX y BX
+
+![Ejecución](recursos/AX0003.png)
+![Ejecución](recursos/ax0008.png)
 
 ---
 
@@ -926,11 +947,15 @@ end start
 ---
 
 **Proyecto realizado por:**
-[Nombres de los integrantes del equipo]
+- Hernández Patiño Tomás Hendrick - 22211582
+- López Mendez Juan David - 22211598 
+- Triana Sanchez Yael Kristoph - 22211667
+- Jimenez Montes Luis Alessandro - 222211588
+
 
 **Materia:** Lenguajes y Autómatas II
 
-**Profesor:** [Nombre del profesor]
+**Profesor:** Octavio Romero Flores
 
 **Fecha:** 3 de Diciembre de 2024
 
